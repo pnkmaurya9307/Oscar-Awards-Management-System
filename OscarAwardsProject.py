@@ -1251,3 +1251,4 @@ kimage=ImageTk.PhotoImage(Image.open("india.png"))
 new()
 PR.mainloop()
 #https://videocandy.com/result/6918d0b3169c8080.html
+
